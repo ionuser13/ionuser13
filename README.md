@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ionuser13
+- 👋 Hi, I’m John!
 - 👀 I’m interested in coding, reading and series.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with other web developers 
