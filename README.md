@@ -25,6 +25,8 @@
 <a href="https://dev.to/ionuser13" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="haiderkh1" height="30" width="40" /></a>
 <a href="https://twitter.com/ionuser03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slow_developer" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/john-f-chacpi-marchena-b9a48222b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/haider-khan-1ab81a193/" height="30" width="40" /></a>
+<a href="https://medium.com/@johnchacpi479">[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]</a>
+
 </p>
 
 ---
