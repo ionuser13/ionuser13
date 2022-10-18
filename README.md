@@ -1,6 +1,6 @@
 <h2>Hi there, I'm John <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=A020F0&lines=I'm+a+Front+-end+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=A020F0&lines=I'm+a+Front-end+Developer)
 
 
 - 🔭 I’m currently working on **frontend projects using HTML, CSS and JavaScript**
