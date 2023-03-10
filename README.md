@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate with other **developers**
 
-- 👨‍💻 All of my projects are available at **in progress**
+- 👨‍💻 All of my projects are available at **<a href="https://portfolio-one-pi-60.vercel.app/"></a>**
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
