@@ -9,7 +9,9 @@
 
 - 💞️ I’m looking to collaborate with other **developers**
 
-- 👨‍💻 All of my projects are available at **<a href="https://portfolio-one-pi-60.vercel.app/"></a>**
+- 👨‍💻 All of my projects are available at **[my projects tab](https://github.com/ionuser13?tab=repositories)**
+
+- 🌐 You an see my portfolio here: [portfolio](https://portfolio-one-pi-60.vercel.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
