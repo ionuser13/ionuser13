@@ -3,9 +3,9 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=A020F0&lines=I'm+a+Front-end+Developer)
 
 
-- 🔭 I’m currently working on **frontend projects using HTML, CSS and JavaScript**
+- 🔭 I’m currently working on **frontend projects using React JS and Tailwind  CSS**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently **building projects**
 
 - 💞️ I’m looking to collaborate with other **developers**
 
