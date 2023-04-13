@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-one-pi-60.vercel.app/](https://portfolio-one-pi-60.vercel.app/)
 
-- 📝 I write articles on [https://medium.com/@johnchacpi479](https://medium.com/@johnchacpi479)
-
 - 💬 Ask me about **React, Next and TypeScript**
 
 - 📫 How to reach me **chacpijohn83@gmail.com**
