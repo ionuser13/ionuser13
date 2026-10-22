@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm John Chacpi</h1>
-<h3 align="center">A passionate frontend developer from Lima, Peru</h3>
+<h3 align="center">A frontend developer from Lima, Peru</h3>
 
 - 🔭 I’m currently working on [a Dashboard Panel](https://github.com/ionuser13/next-admin-panel)
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-one-pi-60.vercel.app/](https://portfolio-one-pi-60.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-g6e1s01c8-ionuser13s-projects.vercel.app/](https://portfolio-g6e1s01c8-ionuser13s-projects.vercel.app/)
 
 - 💬 Ask me about **React, Next and TypeScript**
 
 - 📫 How to reach me **chacpijohn83@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lKFXsrhbrGOwa0vUZCClEW_PCBKbHXZ9/view](https://drive.google.com/file/d/1lKFXsrhbrGOwa0vUZCClEW_PCBKbHXZ9/view)
-
 - ⚡ Fun fact **A character from a Lovecraft story is named after my cat in Stardew Valley.**
 
 
 <h3 align="left">Connect with me:</h3>
+
 [LinkedIn](https://www.linkedin.com/in/john-chacpi/)
 
 <h3 align="left">Languages and Tools:</h3>
