@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/john-chacpi/](https://www.linkedin.com/in/john-chacpi/)" target="blank">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/john-chacpi/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
